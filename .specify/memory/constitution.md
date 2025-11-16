@@ -82,7 +82,7 @@ Rationale:
 - Animations and transitions MUST respect system accessibility settings (reduced motion).
 - Typography MUST scale with system font size settings; no hardcoded text sizes that break accessibility.
 - UI/UX MUST be meticulously crafted: consistent spacing, alignment, and visual hierarchy across all screens.
-- Design reviews MUST verify pixel-perfect implementation of Figma/design specs before PR approval.
+- Design reviews MUST verify pixel-perfect implementation of design specs before PR approval.
 - User feedback (loading states, error messages, success confirmations) MUST be immediate, clear, and actionable.
 
 **Rationale:** Fitness apps serve diverse user populations, including those with visual, motor, or cognitive impairments. Accessible design is not optional. Meticulous UI/UX ensures the app is delightful to use, which drives engagement and retention. Poor UX in fitness apps leads to immediate uninstalls.
